@@ -18,6 +18,20 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
+  'bolt.fill': 'bolt',
+  'bolt.car.fill': 'ev-station',
+  'clock.fill': 'history',
+  'person.fill': 'person',
+  'mappin.circle.fill': 'place',
+  'creditcard.fill': 'credit-card',
+  'car.fill': 'directions-car',
+  'doc.text.fill': 'description',
+  'wave.3.right': 'sensors',
+  'thermometer.medium': 'device-thermostat',
+  'stop.circle.fill': 'stop-circle',
+  'play.circle.fill': 'play-circle-filled',
+  'rectangle.portrait.and.arrow.right': 'logout',
+  'magnifyingglass': 'search',
 } as IconMapping;
 
 /**
